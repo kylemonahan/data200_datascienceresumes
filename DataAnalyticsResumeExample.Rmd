@@ -92,9 +92,9 @@ Medford, MA
 
 2014--2019
 
-- Designed and carried out multiple field experiments in China and the US
-- Developed a strong understanding of multivariate approaches to analyzing metabolomics datasets
-- Provided statistics consulting to Tufts researchers
+- Developed research questions 
+- Provided additional guidance for undergraduate mentors
+
 
 
 Selected Project Experience {data-icon=chalkboard-teacher}
