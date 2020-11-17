@@ -1,5 +1,5 @@
 ---
-title: "Kyle M Monahan"
+title: "Nota Realperson"
 author: Kyle M Monahan
 date: "`r Sys.Date()`"
 output:
@@ -20,7 +20,7 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> kyle.m.monahan@gmail.com
+- <i class="fa fa-envelope"></i> NotaRealperson@gmail.com
 - <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
 - <i class="fa fa-phone"></i> +1 123-456-7891
 
@@ -53,7 +53,7 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Kyle M. Monahan {#title}
+Nota Realperson {#title}
 --------------------------------------------------------------------------------
 
 ### Data analysis and visualization expert seeking Spring 2020 internship
@@ -96,16 +96,6 @@ Medford, MA
 - Developed a strong understanding of multivariate approaches to analyzing metabolomics datasets
 - Provided statistics consulting to Tufts researchers
 
-### Graduate Research Assistant
-
-University of Illinois at Urbana-Champaign
-
-Urbana, IL
-
-2007--2010
-
-- Designed and conducted a multi-year field experiment
-- Analyzed data using generalized linear mixed effects models
 
 Selected Project Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
