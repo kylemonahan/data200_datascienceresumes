@@ -1,5 +1,5 @@
 ---
-title: "Nota Realperson"
+title: "Kyle Monahan"
 author: Kyle M Monahan
 date: "`r Sys.Date()`"
 output:
@@ -20,7 +20,7 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> NotaRealperson@gmail.com
+- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
 - <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
 - <i class="fa fa-phone"></i> +1 123-456-7891
 
@@ -28,9 +28,11 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
+- Experienced in running multivariate regression. 
+
 - List your **key skills**, linked to the job description.
 
-- Performing **data analysis**, with a focus on financial models
+- Performing **data analysis**, with a focus on engineering models
 
 - Experienced in **data communication** and client relations
 
@@ -53,10 +55,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Nota Realperson {#title}
+Kyle Monahan {#title}
 --------------------------------------------------------------------------------
 
-### Data analysis and visualization expert seeking Spring 2020 internship
+### Data Analytics student seeking Spring 2020 internship
 
 
 Education {data-icon=graduation-cap data-concise=true}
